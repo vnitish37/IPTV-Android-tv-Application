@@ -1,0 +1,5 @@
+<resources>
+
+    <style name="AppTheme" parent="@style/Theme.Leanback" />
+    <style name="Theme.MyApp" parent="Theme.AppCompat"/>
+</resources>

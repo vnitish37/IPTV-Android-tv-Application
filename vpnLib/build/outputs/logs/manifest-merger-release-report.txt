@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nitish/Documents/iptv_project/android project/vpnLib/src/main/AndroidManifest.xml:1:1-41
+INJECTED from /Users/nitish/Documents/iptv_project/android project/vpnLib/src/main/AndroidManifest.xml:1:1-41
+INJECTED from /Users/nitish/Documents/iptv_project/android project/vpnLib/src/main/AndroidManifest.xml:1:1-41
+INJECTED from /Users/nitish/Documents/iptv_project/android project/vpnLib/src/main/AndroidManifest.xml:1:1-41
+INJECTED from /Users/nitish/Documents/iptv_project/android project/vpnLib/src/main/AndroidManifest.xml:1:1-41
+INJECTED from /Users/nitish/Documents/iptv_project/android project/vpnLib/src/main/AndroidManifest.xml:1:1-41
+INJECTED from /Users/nitish/Documents/iptv_project/android project/vpnLib/src/main/AndroidManifest.xml:1:1-41
+	package
+		ADDED from /Users/nitish/Documents/iptv_project/android project/vpnLib/src/main/AndroidManifest.xml:1:11-38
+		INJECTED from /Users/nitish/Documents/iptv_project/android project/vpnLib/src/main/AndroidManifest.xml
+		INJECTED from /Users/nitish/Documents/iptv_project/android project/vpnLib/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nitish/Documents/iptv_project/android project/vpnLib/src/main/AndroidManifest.xml
+		ADDED from /Users/nitish/Documents/iptv_project/android project/vpnLib/src/main/AndroidManifest.xml:1:1-41
+		INJECTED from /Users/nitish/Documents/iptv_project/android project/vpnLib/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nitish/Documents/iptv_project/android project/vpnLib/src/main/AndroidManifest.xml:1:1-41
+	android:versionCode
+		INJECTED from /Users/nitish/Documents/iptv_project/android project/vpnLib/src/main/AndroidManifest.xml
+		ADDED from /Users/nitish/Documents/iptv_project/android project/vpnLib/src/main/AndroidManifest.xml:1:1-41
+		INJECTED from /Users/nitish/Documents/iptv_project/android project/vpnLib/src/main/AndroidManifest.xml
+uses-sdk
+INJECTED from /Users/nitish/Documents/iptv_project/android project/vpnLib/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nitish/Documents/iptv_project/android project/vpnLib/src/main/AndroidManifest.xml
+INJECTED from /Users/nitish/Documents/iptv_project/android project/vpnLib/src/main/AndroidManifest.xml
+INJECTED from /Users/nitish/Documents/iptv_project/android project/vpnLib/src/main/AndroidManifest.xml
+INJECTED from /Users/nitish/Documents/iptv_project/android project/vpnLib/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/nitish/Documents/iptv_project/android project/vpnLib/src/main/AndroidManifest.xml
+		ADDED from /Users/nitish/Documents/iptv_project/android project/vpnLib/src/main/AndroidManifest.xml
+		INJECTED from /Users/nitish/Documents/iptv_project/android project/vpnLib/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nitish/Documents/iptv_project/android project/vpnLib/src/main/AndroidManifest.xml
+		ADDED from /Users/nitish/Documents/iptv_project/android project/vpnLib/src/main/AndroidManifest.xml
+		INJECTED from /Users/nitish/Documents/iptv_project/android project/vpnLib/src/main/AndroidManifest.xml
